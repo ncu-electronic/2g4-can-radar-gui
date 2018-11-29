@@ -1,0 +1,1 @@
+pyuic5 -o radar_gui.py radar_gui.ui
